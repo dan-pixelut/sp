@@ -1,0 +1,48 @@
+{
+  "kind": "singleType",
+  "collectionName": "settings",
+  "info": {
+    "singularName": "setting",
+    "pluralName": "settings",
+    "displayName": "setting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "system": {
+      "type": "string"
+    },
+    "min": {
+      "type": "string"
+    },
+    "process_18": {
+      "type": "string"
+    },
+    "process_48": {
+      "type": "string"
+    },
+    "process_68": {
+      "type": "string"
+    },
+    "process_69": {
+      "type": "string"
+    },
+    "process_79": {
+      "type": "string"
+    },
+    "process_82": {
+      "type": "string"
+    },
+    "process_92": {
+      "type": "string"
+    },
+    "process_85": {
+      "type": "string"
+    },
+    "process_102": {
+      "type": "string"
+    }
+  }
+}
