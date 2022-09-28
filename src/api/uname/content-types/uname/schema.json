@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "unames",
+  "info": {
+    "singularName": "uname",
+    "pluralName": "unames",
+    "displayName": "uname"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "uname": {
+      "type": "string"
+    },
+    "pass": {
+      "type": "string"
+    }
+  }
+}
