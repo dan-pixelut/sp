@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
 	"latest": "4.4.3",
 	"lastUpdateCheck": 1665399539384,
 	"lastNotification": 1665399539346
+=======
+	"latest": "4.4.1",
+	"lastUpdateCheck": 1664862684710,
+	"lastNotification": 1664881389079
+>>>>>>> 54fd6019e19058a39021f8408d8a835c18198777
 }
